@@ -1,1 +1,1 @@
-alert("rico rico");
+alert("rico rico")
